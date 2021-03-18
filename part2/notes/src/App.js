@@ -1,14 +1,6 @@
 import React from 'react'
 import Note from './components/Note'
 
-
-// const NoteList = ({ notes }) => {
-//   return(
-//     <div><ul>{notes.map(note => <li key={note.id}>{note.content}</li>)}</ul></div>
-//   )
-// }
-
-
 const App = ({ notes }) => {
 
   return (
